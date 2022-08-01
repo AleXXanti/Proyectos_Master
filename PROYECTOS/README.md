@@ -1,4 +1,4 @@
-Aquí aparecen recogidos todos mis proyectos (a falta del TFM en proceso actualmente) realizados durante mi curso en el máster de Data Science en la MBIT School. Para una mejor comprensión voy a resumirlos brevemente:
+Aquí aparecen recogidos todos mis proyectos (a falta del Trabajo Fin de Máster en proceso actualmente) realizados durante mi curso en el máster de Data Science en la MBIT School. Para una mejor comprensión voy a resumirlos brevemente:
 
 -**Proyecto Visualización de Datos y Storytelling**: con los datos ya limpios de antemano, se simula el papel de un *data scientist* de una empresa donde nos han encomendado un proyecto donde tenemos que crear un dashboard completo usando *Dash* para visualizar los datos del tráfico de nuestra web. Con este dashboard pretendemos saber desde donde acceden nuestros usuarios a nuestra web, desde que red social, pais y dispositivos.
 
