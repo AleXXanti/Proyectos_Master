@@ -1,4 +1,4 @@
-Aquí aparecen recogidos todos mis proyectos (a falta del TFM en proceso actualmente) realizados durante mi curso en el máster de Data Scientist en la MBIT School. Para una mejor comprensión voy a resumirlos brevemente:
+Aquí aparecen recogidos todos mis proyectos (a falta del TFM en proceso actualmente) realizados durante mi curso en el máster de Data Science en la MBIT School. Para una mejor comprensión voy a resumirlos brevemente:
 
 **Proyecto Fifa**: Con todo el mercado existente del juego FIFA 19, se pretende buscar jugadores y equipos con determinadas características para calcular sus probabilidades en su modo ULTIMATE TEAM.
 
