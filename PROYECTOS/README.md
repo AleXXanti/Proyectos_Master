@@ -4,7 +4,7 @@ Aquí aparecen recogidos todos mis proyectos (a falta del TFM en proceso actualm
 
 -**Proyecto APIs y Web Scraping**: se me plantean 3 retos: crear un capturador de definiciones (aunque modificaron la página a última hora y da error con muchas palabras), crear perfiles falsos y programar un sencillo comparador de precios. Todo ello a partir de Selenium.
 
--**Proyecto Amazon**: a partir de un dataset con más de 130 millones reviews de Amazon desde 1995 a 2015 (más información del archivo en _"https://s3.amazonaws.com/amazon-reviews-pds/readme.html"_) se pretende ir resolviendo, una vez hecho el estudio y análisis previo inicial, todas las preguntas de toda índole (productos más/menos demandados, cantidad de reviews, marketplaces importantes...). Todo ello a través de Spark.
+-**Proyecto Amazon**: a partir de un dataset con más de 130 millones reviews de Amazon desde 1995 a 2015 (más información en _"https://s3.amazonaws.com/amazon-reviews-pds/readme.html"_) se pretende ir resolviendo, una vez hecho el estudio y análisis previo inicial, todas las preguntas de toda índole (productos más/menos demandados, cantidad de reviews, marketplaces importantes...). Todo ello a través de Spark.
 
 -**Proyecto Comercio minorista Online**: partiendo de todas las transacciones que se produjeron entre el 12/01/2010 y el 12/09/2011 en un comercio minorista online británico, se busca segmentar los clientes para conseguir que la empresa pueda dirigirse a sus clientes de forma eficiente.
 
