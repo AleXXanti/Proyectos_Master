@@ -12,3 +12,4 @@ Aquí aparecen recogidos todos mis proyectos (a falta del Trabajo Fin de Máster
 
 -**Proyecto Fifa**: con todo el mercado existente del juego FIFA 19, se pretende buscar jugadores y equipos con determinadas características para calcular sus probabilidades en su modo ULTIMATE TEAM.
 
+-**TFM: Desarrollo del VRA (Videogame Recommender Algorithm**: este proyecto nace ante la necesidad de un sistema recomendador de juegos, tanto para usuarios expertos que quieran buscar la siguiente joya de su biblioteca, para jugadores con menos conocimiento a los que se les quiere abrir un mundo de posibilidades, y para aquellos usuarios que quieran regalar un videojuego y no sepan por dónde empezar. Mi parte consistía en la limpieza de los datos que me facilitaba el data engineer, el cual dividió en dos datasets: uno de videojuegos y otro de reviews. A lo largo de ambos notebooks se van indicando cada paso y su justificación.
